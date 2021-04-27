@@ -7,10 +7,6 @@ This is API for MediCare apps
 * API for provide data MediCare apps
 * Version: 0.0.1
 
-### Configuration ###
-
-* clone Dna.Core: *git clone git@bitbucket.org:medicoreid/dna.core.git*
-* clone MediCore.Layer: *git clone git@bitbucket.org:medicoreid/medicore.layer.git*
 
 ### Database Migrations ###
 * type on terminal *dotnet ef migrations add Initial -c MediCoreContext -o Migrations/MediCore.Data*
